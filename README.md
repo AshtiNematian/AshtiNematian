@@ -1,6 +1,6 @@
 ### 👋 Hello there! I'm [Ashti], a passionate developer with a diverse skill set in data analysis using Python and web development with Django.
 
-📊 Data Enthusiast: I have background in data analysis and manipulation with Python. From crunching numbers to deriving meaningful insights, I enjoy exploring data to uncover hidden trends and patterns. Whether it's data cleansing, visualization, or machine learning, I love diving into the world of data.
+📊 Data Enthusiast: I have background in data analysis and manipulation with Python. From crunching numbers to deriving meaningful insights, I enjoy exploring data to uncover hidden trends and patterns. Whether it's data cleansing or visualization, I love diving into the world of data.
 
 🌐 Web Developer: On the web development front, I'm a proficient user of Django, a powerful Python web framework. I'm skilled in creating dynamic and responsive web applications, from crafting beautiful front-end interfaces to designing robust back-end systems. My goal is to build web experiences that are not only visually appealing but also functional and efficient.
 
